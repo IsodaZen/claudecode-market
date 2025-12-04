@@ -30,7 +30,8 @@
       ],
       "repository": "https://github.com/IsodaZen/custom-prompts",
       "source": {
-        "path": "./plugins/custom-prompts"
+        "source": "github",
+        "repo": "IsodaZen/custom-prompts"
       }
     }
   ]
