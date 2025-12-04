@@ -1,0 +1,10 @@
+{
+  "name": "claudecode-market",
+  "owner": {
+    "name": "IsodaZen"
+  },
+  "version": "1.0.0",
+  "description": "Claude Code用のプラグインマーケットプレイス",
+  "pluginRoot": "./plugins",
+  "plugins": []
+}
