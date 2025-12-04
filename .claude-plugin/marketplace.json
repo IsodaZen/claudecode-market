@@ -12,7 +12,10 @@
       "name": "custom-prompts",
       "description": "Specialized review and development workflow commands for Claude Code",
       "version": "1.0.0",
-      "author": "IsodaZen",
+      "author": {
+        "name": "IsodaZen",
+        "url": "https://github.com/IsodaZen"
+      },
       "license": "MIT",
       "category": "productivity",
       "keywords": [
@@ -27,8 +30,6 @@
       ],
       "repository": "https://github.com/IsodaZen/custom-prompts",
       "source": {
-        "type": "git",
-        "url": "https://github.com/IsodaZen/custom-prompts.git",
         "path": "./plugins/custom-prompts"
       }
     }
