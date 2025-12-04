@@ -37,9 +37,30 @@ ClaudeCode用プラグインマーケットプレイス
 
 現在、以下のプラグインが利用可能です：
 
-<!-- プラグインが追加されたら、ここに一覧を記載します -->
+### custom-prompts
 
-*（準備中）*
+**カテゴリ**: productivity
+**バージョン**: 1.0.0
+**作者**: IsodaZen
+**ライセンス**: MIT
+
+Specialized review and development workflow commands for Claude Code
+
+**主な機能**:
+- `/review:security` - セキュリティ重視のレビュー
+- `/review:after` - 実装後の差分レビュー
+- `/review:perf` - パフォーマンス分析
+- `/review:coverage` - テストカバレッジと品質分析
+- `/review:prompt` - AIプロンプト品質評価
+- `/review:note` - ドキュメントと記事の品質レビュー
+- `/commit` - Conventional Commits形式でのコミット作成
+
+**インストール方法**:
+```bash
+/plugin install custom-prompts@claudecode-market
+```
+
+**リポジトリ**: [IsodaZen/custom-prompts](https://github.com/IsodaZen/custom-prompts)
 
 ## プラグイン開発者向け
 

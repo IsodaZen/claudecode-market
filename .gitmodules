@@ -1,0 +1,3 @@
+[submodule "plugins/custom-prompts"]
+	path = plugins/custom-prompts
+	url = https://github.com/IsodaZen/custom-prompts.git
