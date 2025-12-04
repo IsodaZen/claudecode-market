@@ -7,6 +7,7 @@
 - AIはユーザーとのコミュニケーションに日本語を使用する
 - 変更の目的が不明確な場合、AIは作業を進める前にユーザーにコンテキストを確認する
 - AskUserQuestionを積極的に活用する
+- AI does not perform Git commits or push to GitHub without user instructions
 
 ## プロジェクト概要
 
