@@ -4,14 +4,14 @@
     "name": "IsodaZen",
     "email": "25547781+IsodaZen@users.noreply.github.com"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Claude Code用のプラグインマーケットプレイス",
   "pluginRoot": "./plugins",
   "plugins": [
     {
       "name": "custom-prompts",
       "description": "Specialized review and development workflow commands for Claude Code",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "IsodaZen",
         "url": "https://github.com/IsodaZen"
