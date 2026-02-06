@@ -62,6 +62,31 @@ Specialized review and development workflow commands for Claude Code
 
 **リポジトリ**: [IsodaZen/custom-prompts](https://github.com/IsodaZen/custom-prompts)
 
+### cctmx-teams
+
+**カテゴリ**: productivity
+**バージョン**: 1.0.0
+**作者**: IsodaZen
+**ライセンス**: MIT
+
+tmux-based leader-worker pattern for multi-instance Claude Code team development
+
+tmuxを使用してリーダー・ワーカーパターンで複数のClaude Codeインスタンスを協調動作させ、効率的なチーム開発を実現するプラグインです。
+
+**主な機能**:
+- `/cctmx-teams:setup` - 初期セットアップ
+- `/tmux-worker` - ワーカーペインの作成
+- `/tmux-send` - ワーカーへの構造化された指示送信
+- `/tmux-review` - ワーカー出力のレビュー
+- `/tmux-check` - ワーカーエラーの検出
+
+**インストール方法**:
+```bash
+/plugin install cctmx-teams@claudecode-market
+```
+
+**リポジトリ**: [IsodaZen/cctmx-teams](https://github.com/IsodaZen/cctmx-teams)
+
 ## プラグイン開発者向け
 
 ### プラグインの追加方法
