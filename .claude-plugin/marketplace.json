@@ -33,6 +33,31 @@
         "source": "github",
         "repo": "IsodaZen/custom-prompts"
       }
+    },
+    {
+      "name": "cctmx-teams",
+      "description": "tmux-based leader-worker pattern for multi-instance Claude Code team development",
+      "version": "1.0.0",
+      "author": {
+        "name": "IsodaZen",
+        "url": "https://github.com/IsodaZen"
+      },
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "tmux",
+        "team",
+        "multi-instance",
+        "leader-worker",
+        "delegation",
+        "automation",
+        "workflow"
+      ],
+      "repository": "https://github.com/IsodaZen/cctmx-teams",
+      "source": {
+        "source": "github",
+        "repo": "IsodaZen/cctmx-teams"
+      }
     }
   ]
 }
